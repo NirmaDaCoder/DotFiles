@@ -1,0 +1,24 @@
+@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+
+configuration {
+  display-drun: "Applications";
+  display-window: "Windows";
+  display-run: "Run";
+  drun-display-format: "{name}";
+  font: "JetBrains mono regular 14";
+  modi: "window,run,drun";
+  show-icons: true;
+  icon-theme: "Papirus";
+}
+
+* {  
+  border: 0;
+  margin: 1;
+  padding: 1;
+  spacing: 0;
+}
+
+window {
+  width: 25%;
+}
+

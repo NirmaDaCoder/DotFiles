@@ -1,0 +1,1541 @@
+alacritty help
+xset
+dnf install xset
+xset
+xset s off
+dnf install awesome xterm dmenu rofi picom nitrogen volumeicon network-manager-applet copyq shutter 
+dnf lxappearance kvantum
+dnf install  lxappearance kvantum
+ls /etc/xdg/awesome
+mkdir .config/awesome;cp /etc/xdg/awesome/rc.lua .config/awesome/rc.lua
+rangercd
+neofetch
+git clone https://github.com/lcpz/lain.git ~/.config/awesome/lain
+git clone https://github.com/lcpz/awesome-freedesktop.git ~/.config/awesome/freedesktop
+nv .config/awesome/rc.lua
+nv .config/awesome/rc.lua
+nv .config/awesome/rc.lua
+dnf remove nitrogen
+dnf autoremove
+dnf clean
+as
+clear ;neofetch
+clear ;neofetch
+nv .config/awesome/rc.lua
+ls /etc/xdg/awesome
+find awesome -iname
+find -iname awesome
+find -iname / awesome
+find / -iname awesome
+sudo find / -iname awesome
+cd /usr/share/awesome/
+ls
+cd themes/
+ls
+cd default/
+ls
+nvim theme.lua
+cd
+ls
+programing
+la
+cd Projects/PlantTaxZ
+la
+nvim main.py
+cd 
+history
+cmatrix
+cmatrix
+git clone https://github.com/jnsh/arc-theme --depth 1
+dnf install meson
+cd arc-theme
+la
+..
+meson setup --prefix=$HOME/.local -Dvariants=darker build/
+dnf install arc-theme
+la~
+la
+rm -rf arc-theme/
+la
+su
+wget -qO- https://git.io/papirus-icon-theme-install | DESTDIR="$HOME/.icons" sh
+wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/install.sh | sh
+pamanfm
+dnf isstall pamanfm
+dnf istall pamanfm
+dnf install pamanfm
+dnf install pcmanfm
+nivm
+history
+rofi-theme-selector
+mkdir .config/rofi
+rangercd
+rangercd
+vim
+rangercd
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+mkdir nvim
+cd nvu
+cd nvim/
+nv init.vim
+nv
+nv init.vim
+nv init.vim
+nv init.vim
+nv init.vim
+nv init.vim
+nv init.vim
+nv init.vim
+nv init.vim
+nv init.vim
+..
+cd awesome/
+nivm rc.lua
+..
+cd alacritty/
+nv alacritty.yml
+nv alacritty.yml
+nv alacritty.yml
+..
+cd nvim/
+nvim init.vim
+nvim init.vim
+nvim init.vim
+nvim init.vim
+nvim init.vim
+nvim init.vim
+rangercd
+nv theme.lua
+nv theme.lua
+la
+nv rc.lua
+rm theme.lua
+nv rc.lua
+dnf install shutter
+shutter
+nv .config/awesome/rc.lua
+neofetch
+cmatrix
+shutter -h
+shutter --min_at_startup
+shutter --min_at_startup &
+killall shutter
+nv .config/awesome/rc.lua
+killall shutter
+cmatric
+cmatrix
+neofetch
+xset s off
+xset s off
+xset
+xset q
+xset s on
+xset q
+xset s off
+xset q
+dnf search xfce4-
+dnf search xfce4-power-manager
+dnf install xfce4-power-manager
+killall xfce4-power-manager
+xfce4-power-manager
+xfce4-power-manager &
+killall xfce4-power-manager
+killall xfce4-power-manager
+killall volumeicon
+nv .config/awesome/rc.lua
+killall volumeicon shutter
+neofetch
+neofetch
+neofetch
+neofetch
+neofetch
+neofetch
+cmatrix
+dnf install libgtk2-appindicator-perl
+dnf install libgtk2-appindicator
+dnf seacrh libgtk2-appindicator
+dnf search libgtk2-appindicator
+dnf search appindicato
+dnf search appindicator-perl
+dnf search appindicator
+dnf install perl-Gtk2-AppIndicator
+dnf search conky
+dnf install conky
+dnf install conky-manager
+dnf seacrh conky-
+dnf search conky-
+killall conky
+conky 
+conky -h
+killall conky
+conky right
+dnf install conky-all
+cd && wget -O .start-conky http://drive.noobslab.com/data/conky/start-conky
+chmod +x .start-conky
+la
+sh .start-conky
+nv .start-conky
+.start-conky
+./.start-conky
+cd && wget -O grayc-noobslab.zip http://drive.noobslab.com/data/conky/Red-Gray-Orange/conky-gray.zip
+unzip grayc-noobslab.zip && rm grayc-noobslab.zip
+./.start-conky
+conky
+conky
+dnf remove conky
+dnf history
+rangercd
+gnome
+dnf list
+dnf help list 
+rangercd
+rangercd
+ranger --copy-config=all
+nvim rc.conf
+rangercd
+nvim
+nv
+nv
+rangercd
+nv
+rangercd
+rangercd
+nv
+rangercd
+rangercd
+picom
+rangercd
+ps aux | grep picom
+xwininfo
+alacritty help
+alacritty -o opacity=0.8
+xwininfo
+ala+aaaaaadl-0difg0oalaadssdfsdfs
+alacritty help -h
+alacritty help --help
+alacritty help
+alacritty --config-file=.config/alacritty/alacritty.yml
+rangercd
+nv
+rangercd
+dnf install jp2a
+dnf search jp2a
+dnf search jp2
+dnf search jp
+dnf search jp2a
+dnf search jp
+sudo dnf install snapd
+sudo ln -s /var/lib/snapd/snap /snap
+sudo snap install ascii-image-converter
+sudo snap install snap-store
+sudo snap install ascii-image-converter
+cd
+cd Pictures
+cd Wallpapers
+ls
+ascii-image-converter -C 0003.png
+snap help
+snap run
+snap run ascii-image-converter
+snap run ascii-image-converter -C 0003.png
+sudo snap uninstall ascii-image-converter
+sudo snap remove ascii-image-converter
+sudo snap remove snap-store
+dnf remove snapd
+dnf
+dnf update
+dnf check
+mmands:
+dnf check-update
+dnf autoremove
+dnf group gnome
+dnf group list
+dnf clean
+dnf upgrade
+curl https://raw.githubusercontent.com/anhsirk0/fetch-master-6000/master/fm6000.pl --output fm6000
+chmod +x fm6000
+mv fm6000 ~/.local/bin/
+fm6000
+zsh
+zsh
+cd .local/bin/
+./fm6000 -w
+./fm6000 -dog
+./fm6000 -al
+./fm6000 -as
+./fm6000 -r
+./fm6000 -r
+./fm6000 -r
+./fm6000 -r
+./fm6000 -r
+./fm6000 -r
+./fm6000 -rm
+./fm6000 -r -m
+./fm6000 -r -m=14
+./fm6000 -r -m=32
+./fm6000 -r -nd
+cd
+nvim .zshrc
+fm6000
+./fm6000
+la
+rangercd
+./fm6000
+cd
+sh -c "$(curl https://raw.githubusercontent.com/anhsirk0/fetch-master-6000/master/install.sh)"
+fm6000
+rangercd
+rangercd
+./fm6000
+dnf install perl-experimental
+./fm6000
+./fm6000 -h
+dnf install nitrogen
+dnf install nitrogen
+nitrogen
+rangercd
+noefetch
+neofetch
+volumeicon&
+rangercd
+man cmatrix
+nv .config/awesome/rc.lua
+cmatrix -a
+cmatrix 
+cmatrix -a -b 
+cmatrix -a -b -l
+cmatrix -a -b -m
+cmatrix -a -b -r
+cmatrix -a -b -C green
+cmatrix -a -b -C blue
+cmatrix -a -b -C blue -r
+cmatrix -a -b -C blue
+neofetch
+neofetch
+man zsh
+zsh --help
+rangercd
+mkdir zsh
+cd zsh/
+ls
+nvim .zshrc
+rangercd
+gnome-text-editor rc.lua
+dnf install terminator
+cd 
+nvim .zshrc
+n
+! 
+rangercd
+nv
+sudo dnf install powerline-fonts
+nv
+nv init.vim
+nv init.vim
+nv
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv
+nv
+nv .config/nvim/init.vim 
+nv
+nv
+nv
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv
+nv .config/nvim/init.vim 
+nv
+nv
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv .config/nvim/init.vim 
+nv
+nv .config/nvim/init.vim 
+sfdg
+rangercd
+cd
+rangercd
+zsh
+env
+nv /tmp/Alacritty-30205.log
+nv .zshrc
+zsh
+noefetch
+neofetch
+nv .zshrc
+zsh
+nv .zshrc
+nv .zshrc
+rangercd
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.config/zsh/powerlevel10k\
+echo 'source ~/.config/zsh/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+exec zsh
+
+dfghfdg
+fdg
+fds
+g
+fsdg
+fd
+g
+df
+g
+dsfg
+rangercd
+
+rangercd
+p10k configure
+nv .zshrc
+cd
+nv .zshrc
+nv .zshrc
+rangercd
+starship
+starship prompt
+zsh
+mpv
+export STARSHIP_CONFIG=~/example/non/default/path/starship.toml\
+
+export STARSHIP_CONFIG=~/.config/starship.toml\
+
+mkdir .conifg/starship ; export STARSHIP_CACHE=~/.config/starship/cache\
+
+mkdir .config/starship ; export STARSHIP_CACHE=~/.config/starship/cache\
+
+export STARSHIP_CACHE=~/.config/starship/cache\
+
+sdg
+rangercd
+rangercd
+env STARSHIP_LOG=trace starship module rust
+ruat
+rust
+starship bug-report
+rangercd
+rangercd
+rangercd
+export STARSHIP_CONFIG=~/.config/starship.toml\
+
+volumeicon&
+exec volumeicon
+exec volumeicon &
+killall volumeicon
+man sutter
+man shutter
+shutter -f -C -n
+shutter -f -C -n
+shutter -f -C -n -e
+shutter -f -C -n -e
+shutter -f -C -n -e --disable_systray
+exec shutter --min_at_startup &
+;5A
+man shutter
+man shutter
+rangercd
+# Locate and delete the starship binary\
+sh -c 'rm "$(command -v 'starship')"'
+# Locate and delete the starship binary\
+sh -c 'rm "$(command -v 'starship')"'
+rangercd
+cd
+rangercd
+sh -c 'rm "$(command -v 'starship')"'
+sudo sh -c 'rm "$(command -v 'starship')"'
+sudo sh -c 'rm "$(command -v 'starship')"'
+dnf history userinstalled
+dnf remove starship
+starship
+rangercd
+curl -sS https://starship.rs/install.sh | sh\
+
+sudo curl -sS https://starship.rs/install.sh | sh
+rangercd
+sudo dnf remove terminator
+mkdir -p ~/.config && touch ~/.config/starship.toml
+rangercd
+mkdir -p ~/.config && touch ~/.config/starship/starship.toml
+mkdir -p ~/.config/starship && touch ~/.config/starship/starship.toml
+rangercd
+nv starship.toml
+export STARSHIP_CONFIG=~/.config/starship/starship.toml\
+
+export STARSHIP_CACHE=~/.config/starship/cache\
+
+rangercd
+rangercd
+nv starship.toml
+export STARSHIP_CONFIG=~/.config/starship/starship.toml\
+
+export STARSHIP_CACHE=~/.config/starship/cache\
+
+export STARSHIP_CONFIG=~/.config/starship/starship.toml\
+
+neofetch
+rangercd
+cd
+history
+dnf history
+nv
+vim
+pamanfm
+pcmanfm
+dnf remove pcmanfm
+pgrep -af polkit-gnome
+man lxsession
+dnf search picom
+dnf install lxsession
+git clone https://github.com/jonaburg/picom --depth=1
+cd picom/
+ls
+la
+meson --buildtype=release . build
+dnf search ev
+dnf search libev
+dnf install libev
+meson --buildtype=release . build
+la
+rangercd
+cd
+cd 
+cd picom/
+exit
+man picom
+rangercd
+cd
+la
+curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
+ln -s ~/.local/kitty.app/bin/kitty ~/.local/bin/
+cp ~/.local/kitty.app/share/applications/kitty.desktop ~/.local/share/applications/
+cp ~/.local/kitty.app/share/applications/kitty-open.desktop ~/.local/share/applications/
+\
+sed -i "s|Icon=kitty|Icon=/home/$USER/.local/kitty.app/share/icons/hicolor/256x256/apps/kitty.png|g" ~/.local/share/applications/kitty*.desktop\
+sed -i "s|Exec=kitty|Exec=/home/$USER/.local/kitty.app/bin/kitty|g" ~/.local/share/applications/kitty*.desktop
+\
+sed -i "s|Icon=kitty|Icon=/home/$USER/.local/kitty.app/share/icons/hicolor/256x256/apps/kitty.png|g" ~/.local/share/applications/kitty*.desktop ;sed -i "s|Exec=kitty|Exec=/home/$USER/.local/kitty.app/bin/kitty|g" ~/.local/share/applications/kitty*.desktop
+rangercd
+cd
+rangercd
+rangercd
+rangercd
+rangercd
+exit
+cd Applications
+cd Godot
+la
+rangercd
+rangercd
+rangercd
+la
+cp Xresources_LinuxNomad ~/.Xresources
+cd
+la
+xrdb -load .Xresources
+neofetch
+neofetch
+rangercd
+mononoki
+fonts
+gnome-font-viewer
+exit
+nefofetch
+neofetch
+nerd
+fonts
+la
+lanv .Xresources
+nv .Xresources
+xrdb -load .Xresources
+killall xterm
+neofetch
+rangercd
+dnf install nitrogen
+man nitrogen
+nitrogen --help
+nitrogen
+nv .config/awesome/rc.lua
+rangercd
+nv mytheme.lua
+nv rc.lua
+cmatrix -a -b -C blue
+neofetch
+godot
+Godot
+nv .zshrc
+programing
+la
+rangercd
+Godot
+rangercd
+nv godot.desktop
+rangercd
+rofi -show window
+rofi -show window
+rofi -show window
+rofi -show window
+rofi
+rofi -show windowcd
+rofi -show ssh
+rofi -show combi
+rofi -show keys
+rofi -show filebrowser
+rangercd
+nv powermenu
+rangercd
+nv power.rasi
+powermenu
+~/.local/bin/powermenu
+sudo ~/.local/bin/powermenu
+rangercd
+./powermenu
+chmod +x powermenu
+./powermenu
+nv powermenu
+slock
+dnf install slock
+sudo dnf install slock
+./powermenu
+man slock
+man shutdown
+man reboot
+awesome-client
+man awesome-client
+nv powermenu
+./powermenu
+nv powermenu
+./powermenu
+nv powermenu
+./powermenu
+man awesome-client
+awesome-client -h
+awesome-client
+/home/nirmal/.local/bin/powermenu
+sh /home/nirmal/.local/bin/powermenu
+bash /home/nirmal/.local/bin/powermenu
+exec /home/nirmal/.local/bin/powermenu
+bash /home/nirmal/.local/bin/powermenu
+nv /home/nirmal/.local/bin/powermenu
+bash /home/nirmal/.local/bin/powermenu
+bash /home/nirmal/.local/bin/powermenu
+bash /home/nirmal/.local/bin/powermenu
+bash /home/nirmal/.local/bin/powermenu
+nv /home/nirmal/.local/bin/powermenu
+nv /home/nirmal/.local/bin/powermenu
+bash /home/nirmal/.local/bin/powermenu
+bash /home/nirmal/.local/bin/powermenu
+cmatrix -a -b -C blue
+neofetch
+nv /home/nirmal/.local/bin/powermenu
+rangercd
+lxsession
+killall lxsession
+gsettings set org.gnome.desktop.peripherals.mouse left-handed false
+rangercd
+polkit
+sudo dnf install polkit
+sudo dnf install polkit-gnome
+rm ~/.config/autostart/org.corectrl.corectrl.desktop
+rm /etc/polkit-1/localauthority/50-local.d/90-corectrl.pkla
+sudo rm /etc/polkit-1/localauthority/50-local.d/90-corectrl.pkla
+sudo rm /etc/polkit-1/rules.d/90-corectrl.rules
+pkaction
+pkaction --version
+man pkaction
+sudo dnf remove corectl
+sudo dnf remove corectrl
+sudo nv /etc/defaults/grub
+sudo nvim /etc/defaults/grub
+sudo nvim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg\
+
+sudo grub2-mkconfig -o /boot/grub/grub.cfg\
+
+sudo grub2-mkconfig -o /boot/grub/grub.cfg\
+
+sudo grub2-mkconfig -o /etc/grub2.cfg\
+
+sudo grub2-mkconfig -o /etc/grub2-efi.cfg
+nv .config/awesome/rc.lua
+rangercd
+nv .local/bin/powermenu
+cmatrix -a -b -C blue
+neofetch
+shutter 
+shutter 
+rangercd
+sudo dnf remove xterm
+man dnf]
+man dnf
+rangercd
+man alacritty
+dconf-editor
+dnf install dconf-editor
+sudo dnf install dconf-editor
+dconf-editor
+dconf-editor
+dconf-editor
+rangercd
+rangercd
+bash powermenu
+bash powermenu
+cd
+rangercd
+rangercd
+la
+;s
+ls
+neofetch
+htop
+mkdir -p ~/.config/awesome/awful/hotkeys_popup/keys && touch ~/.config/awesome/awful/hotkeys_popup/keys/tmux.lua
+rangercd
+time
+date
+find / -iname theme.lua
+sudo find / -iname theme.lua
+sudo find / -iname default/theme.lua
+sudo find / default/theme.lua
+rangercd
+sudo nvim theme.lua
+sudo nvim theme.lua
+la
+..
+la
+..
+la
+pwd
+cd
+cp /usr/share/awesome .config/awesome/
+man cp
+cp -r /usr/share/awesome .config/awesome/
+rangercd
+killall volumeicon
+rangercd
+sudo nvim theme.lua
+neofetch
+rangercd
+rangercd
+rangercd
+cd
+rangercd
+rangercd
+la
+nv theme.lua
+rangercd
+rangercd
+rangercd
+exit
+rangercd
+shutter 
+exec shutter &
+cmatrix -a -b -C blue
+clear ;neofetch
+exec shutter 
+dnf install nitrogen
+sudo dnf install nitrogen
+rangercd
+killall polkit-gnome
+polkit-gnome
+exec polkit-gnome
+exec polkit-gnome
+exec polkit-gnome &
+killall polkit-gnome
+sudo dnf install polkit
+sudo dnf install polkit-gnome
+sudo systemctl status polkit.service
+sudo systemctl status polkit-gnome
+killall picom
+killall nm-applet
+killall copyq
+killall volumeicon
+ps aux | grep polkit-agent
+ps aux | grep polkit
+picom
+man sleep 
+sleep 1
+sudo dnf install mpv
+mpv
+mpv --no-video /home/nirmal/Music/start-up.mp3
+ rangercd
+nv rc.lua
+nv rc.lua
+dnf install virtual-box
+sudo dnf install virtual-box
+sudo dnf search virtual-box
+sudo dnf search virtual
+sudo dnf search virtualbox
+sudo dnf install virtualbox
+sudo dnf install VirtualBox
+Total size: 71 M
+Total download size: 70 M
+Installed size: 223 M
+Is this ok [Y/n]:
+Downloading Packages:
+[SKIPPED] http-parser-2.9.4-6.fc36.x86_64.rpm: Already downloaded
+[SKIPPED] libgit2-1.3.0-2.fc36.x86_64.rpm: Already downloaded
+[SKIPPED] libssh2-1.10.0-4.fc36.x86_64.rpm: Already downloaded
+(4/39): liblzf-3.6-23.fc36.x86_64.rpm                         35 kB/s |  27 kB     00:00
+(5/39): kmodtool-1.1-3.fc36.noarch.rpm                        17 kB/s |  17 kB     00:00
+(6/39): ed-1.14.2-12.fc36.x86_64.rpm                          59 kB/s |  73 kB     00:01
+(7/39): debugedit-5.0-3.fc36.x86_64.rpm                       59 kB/s |  77 kB     00:01
+(8/39): python3-pytz-2022.1-1.fc36.noarch.rpm                 75 kB/s |  47 kB     00:00
+(9/39): patch-2.7.6-16.fc36.x86_64.rpm                        65 kB/s | 124 kB     00:01
+(10/39): python3-requests-gssapi-1.2.3-4.fc36.noarch.rpm     129 kB/s |  26 kB     00:00
+(11/39): python3-pygit2-1.7.1-3.fc36.x86_64.rpm              231 kB/s | 202 kB     00:00
+(12/39): python3-utils-2.5.6-5.fc36.noarch.rpm                64 kB/s |  28 kB     00:00
+(13/39): rpmdevtools-9.6-1.fc36.noarch.rpm                   259 kB/s |  91 kB     00:00
+(14/39): zlib-devel-1.2.11-31.fc36.x86_64.rpm                 78 kB/s |  44 kB     00:00
+(15/39): python3-progressbar2-3.53.2-4.fc36.noarch.rpm        25 kB/s |  56 kB     00:02
+(16/39): rpm-build-4.17.0-10Total size: 71 M
+Total download size: 70 M
+Installed size: 223 M
+Is this ok [Y/n]:
+Downloading Packages:
+[SKIPPED] http-parser-2.9.4-6.fc36.x86_64.rpm: Already downloaded
+[SKIPPED] libgit2-1.3.0-2.fc36.x86_64.rpm: Already downloaded
+[SKIPPED] libssh2-1.10.0-4.fc36.x86_64.rpm: Already downloaded
+(4/39): liblzf-3.6-23.fc36.x86_64.rpm                         35 kB/s |  27 kB     00:00
+(5/39): kmodtool-1.1-3.fc36.noarch.rpm                        17 kB/s |  17 kB     00:00
+(6/39): ed-1.14.2-12.fc36.x86_64.rpm                          59 kB/s |  73 kB     00:01
+(7/39): debugedit-5.0-3.fc36.x86_64.rpm                       59 kB/s |  77 kB     00:01
+(8/39): python3-pytz-2022.1-1.fc36.noarch.rpm                 75 kB/s |  47 kB     00:00
+(9/39): patch-2.7.6-16.fc36.x86_64.rpm                        65 kB/s | 124 kB     00:01
+(10/39): python3-requests-gssapi-1.2.3-4.fc36.noarch.rpm     129 kB/s |  26 kB     00:00
+(11/39): python3-pygit2-1.7.1-3.fc36.x86_64.rpm              231 kB/s | 202 kB     00:00
+(12/39): python3-utils-2.5.6-5.fc36.noarch.rpm                64 kB/s |  28 kB     00:00
+(13/39): rpmdevtools-9.6-1.fc36.noarch.rpm                   259 kB/s |  91 kB     00:00
+(14/39): zlib-devel-1.2.11-31.fc36.x86_64.rpm                 78 kB/s |  44 kB     00:00
+(15/39): python3-progressbar2-3.53.2-4.fc36.noarch.rpm        25 kB/s |  56 kB     00:02
+(16/39): rpm-build-4.17.0-10
+uname -r
+ dnf install akmod-VirtualBox kernel-devel-$(uname -r)
+sudo  dnf install akmod-VirtualBox kernel-devel-$(uname -r)
+xkill
+sudo dnf install xkill
+xkill
+xkill
+xkill
+sudo  dnf remove VirtualBox
+dnf autoclean
+dnf autoremove
+sudo dnf autoremove
+sudo  dnf remvoe akmod-VirtualBox kernel-devel-$(uname -r)
+sudo  dnf remove akmod-VirtualBox kernel-devel-$(uname -r)
+neofetch
+sudo dnf install bluez
+sudo dnf install bluez-utils
+sudo dnf install bluez-utils-compact
+sudo dnf install bluezutils
+sudo dnf search bluez
+sudo dnf install bluez-tools
+sudo systemctl status bluetooth.service
+bluetoothctl
+bluetoothctl scan on
+bluetoothctl power on
+bluetoothctl power off
+bluetoothctl power on
+systemctl stop bluetooth.service
+systemctl start bluetooth.service
+bluetoothctl power on
+sudo systemctl restart bluetooth
+bluetoothctl power on
+rmmod btusb
+sudo rmmod btus b
+bluetoothctl power on
+gnome-applet
+-applet
+bluetoothctl discoverable on
+killall bluez
+bluez
+man bluez
+bluemoon
+bluetoothctl
+programing
+rangercd
+volumeicon&
+bluetoothctl
+pip install pyttxs3
+pip install pyttsx3
+pip install pyaudio
+sudo dnf install python3-audio
+sudo dnf searchh python3-audio
+sudo dnf search python3-audio
+sudo dnf search python3-audioread
+sudo dnf install python3-audioread
+pip install pyaudio
+pip3 install pyaudio
+sudo pip3 install pyaudio
+pip install speechrecognition
+programing
+rangercd
+nv main.py
+python main.py
+pip3 insatall pyaudio
+pip3 install pyaudio
+pip3 install pywin
+python3 -m pip install pyaudio
+pip3 install --user pyaudio
+sudo dnf install portaudio-devel redhat-rpm-config
+pip install --user pyaudio
+sudo dnf install python-pyaudio\
+
+pip install --user pyaudio
+python main.py
+nv main.py
+python main.py
+nv main.py
+python main.py
+python main.py
+python main.py
+nv main.py
+python main.py
+nv main.py
+python main.py
+python main.py
+nv main.py
+python main.py
+python main.py
+rangercd
+a
+la
+./pycharm.sh
+nv
+rangercd
+rangercd
+programing
+la
+rangercd
+la
+la
+rangercd
+la
+git
+git init
+git remote add origin https://github.com/NirmaDaCoder/PlantTaxZ.git
+git branch -M main
+git push -u origin main
+touch readme.md
+nv readme.md
+git commmit -m "added a readme file"
+git commit -m "added a readme file"
+  git config --global user.email "nirmal232008@gmail.com"
+ git config --global user.name "NirmalDaCoder"
+git commit -m "added a readme file"
+git remote add origin https://github.com/NirmaDaCoder/PlantTaxZ.git
+git branch -M main
+git push -u origin main
+la
+exit
+programing
+rangercd
+mkdir PlantTaxZ
+cd PlantTaxZ
+la
+git init
+git remote add origin https://github.com/NirmaDaCoder/PlantTaxZ.git
+touch readme.md
+git add .
+la
+rangercd
+la
+git commit -m "added a readme file"
+touch .gitignore
+mkdir tests
+mkdir src
+nv .gitignore
+la
+ls
+cd src/
+mkdir model 
+mkdir view
+mkdir controller
+ls
+..
+la
+git add .
+git commit -m "added directories"
+man git
+git branch -M main
+git push -u origin main
+git remote add origin git@github.com:NirmaDaCoder/PlantTaxZ.git
+git push -u origin main
+programing
+rangercd
+mkdir PlantTaxZ
+cd PlantTaxZ
+la
+echo "# PlantTaxZ" >> README.md
+la
+git init
+git add README.md
+git commit -m "added a readme file"
+git branch -M main
+git remote add origin git@github.com:NirmaDaCoder/PlantTaxZ.git
+git push -u origin main
+ssh-add ~/.ssh/id_rsa
+ssh-add ~/.ssh/id_rsa
+git remote add origin https://github.com/NirmaDaCoder/PlantTaxZ.git
+git push -u origin main
+rangercd
+la
+rangercd
+neofetch
+programing
+rangercd
+la
+rangercd
+touch .gitignore
+nv .gitignore
+la
+mkdir tests
+mkdir src
+cd src/
+la
+mkdir model
+mkdir view
+mkdir controller
+la
+ls
+cd ..
+la
+la
+cd src/
+ls
+git
+git help
+git help git
+rangercd
+sleep 0.5
+sudo dnf install hwinfo
+hwinfo
+sudo dnf remove hwinfo
+cat /sys/class/thermal/thermal_zone*/temp
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+rangercd
+rangercd
+sudo dnf install preload
+sudo systemctl start preload
+sudo systemctl status preload
+sudo systemctl enable preload
+sudo less /var/lib/preload/preload.state
+programing
+rangercd
+cd
+rangercd
+cd
+programing
+rangercd
+git
+git branch
+git branch list
+git branch create release
+pip help
+pip list
+whereis ls
+whereis bash
+cd /usr/bin/
+la
+nv ls
+nv .config/awesome/rc.lua
+rangercd
+man dnf
+sudo dnf update
+sudo dnf upgrade
+rangercd
+rangercd
+neofetch
+nv
+nv .config/awesome/rc.lua
+nv ~/.config/awesome/rc.lua
+rangercd
+rangercd
+rangercd
+pip unistall pipwin
+pip uninstall pipwin
+rangercd
+rangercd
+nv rc.lua
+nv .config/awesome/rc.lua
+cd .config/awesome
+cd awesome/themes/default
+;la
+nv theme.lua
+rangercd
+cd /usr/share/rofi
+la
+cd themes
+la
+sudo nv gruvbox-dark.rasi
+sudo nvim gruvbox-dark.rasi
+man rofi
+rangercd
+cmatrix -a -b -C blue
+neo
+neofetch
+rangercd
+cd
+history\\
+
+cmatrix -a -b -C blue
+neofetch
+orangercd
+rangercd
+lxsession
+polkit-gnome
+dnf install mate-polkit
+sudo dnf install mate-polkit
+mate-polkit
+polkit-mate
+cd /usr/bin/
+la
+cd
+lxsession
+polkit-gnome
+sudo dnf install polkit-gnome
+polkit-gnome
+polkit-gnome-authentication-agent-1
+polkit-gnome-authentication-agent-1
+rangercd
+polkit-gnome-authentication-agent-1
+./polkit-gnome-authentication-agent-1
+pgrep -af polkit-gnome
+pwd
+/usr/libexec/polkit-gnome-authentication-agent-1
+exec /usr/libexec/polkit-gnome-authentication-agent-1 &
+exec /usr/libexec/polkit-gnome-authentication-agent-1 &
+ps aux | grep some-polkit-agent
+ps aux 
+ps aux | grep polkit
+man awesome-client
+awesome-client
+xprop
+\:() : | : & 
+\:() : | : & 
+\:() : | : & 
+\:() {: | : &}; :
+awesome -k
+awesomerc
+man awesomerc
+sudo dnf install pcmanfm
+dnf remove natlius
+neofetch
+python
+python test.py
+nv test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+python test.py
+nv test.py
+python test.py
+neofetch
+python test.py
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+psensor
+sudo dnf install psensor
+python test.py
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+psensor
+sudo dnf install psensor
+python test.py
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+psensor
+sudo dnf install psensor
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+sudo dnf install https://raw.githubusercontent.com/rpmsphere/x86_64/master/p/psensor-1.2.0-5.1.x86_64.rpm
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'
+nv test.py
+python test.py 
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+python test.py &
+neofetch
+bluetoothctl
+cd /etc/skel
+la
+nv .bash_logout
+nv .bash_profile
+nv .bashrc
+nv .zprofile
+nv .zshrc
+cp .bash_profile ~
+cp .bashrc ~
+cp .bash_logout ~
+cd
+la
+bash
+la
+find / -iname bash.d
+sudo find / -iname bash.d
+bash
+bash
+bash
+bash
+bash
+bash
+bash --init-file ~/.config/bash/.bashrc
+bash --init-file ~/.bash_profile
+nitrogen
+sudo dnf remove nitrogen
+sudo dnf autoremove
+sudo dnf autoremove
+sudo dnf clean
+ls --color=auto
+ls -a --color=auto
+ls -la --color=auto
+rangercd
+sudo dnf remove xfce4-power-manager
+xfce4-session
+nitrogen
+history
+rangercd
+su
+su
+sudo -i
+sudo dnf install libxcb-xinerama0\
+
+sudo dnf search libxcb-xinerama0\
+
+sudo dnf search libxcb-xiner\
+
+sudo dnf search libxcb
+cd Downloads
+la
+ll
+tar xaf Downloads/anki-2.1.XX-linux-qt6.tar.zst
+tar xaf Downloads/anki-2.1.54-linux-qt5.tar.zst
+tar xaf anki-2.1.54-linux-qt5.tar.zst
+cd anki-2.1.54-linux-qt5
+la
+sudo ./install.sh\
+
+anki
+rangercd
+./uninstall.sh
+sudo ./uninstall.sh
+cd ..
+la
+rm -rf anki-2.1.54-linux-qt5
+la
+dnf search zstd
+dnf install zstd
+sudo dnf install zstd
+dnf search libxcb
+sudo dnf install  libxcb
+tar xaf Downloads/anki-2.1.XX-linux-qt6.tar.zst
+tar xaf anki-2.1.XX-linux-qt6.tar.zst
+la
+tar xaf anki-2.1.54-linux-qt6.tar.zst
+cd anki-2..154-linux
+cd anki-2.1.54-linux
+cd anki-2.1.54-linux-qt6
+la
+sudo ./install.sh
+anki
+LC_ALL=C lscpu | grep Virtualization
+sudo dnf install qemu virt-manager ebtables
+libvert
+sudo systemctl enable libvirtd
+sudo systemctl start libvirtd
+sudo systemctl status libvirtd
+sudo usermod -G libvirt -a nirmal
+groups
